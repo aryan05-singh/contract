@@ -1,1 +1,1 @@
-# contract
+firstly i downloaded hardhat and then i write in terminal npx hardhat then created my some file and then i install ether.js then i creeated a solidity file then i wrote the solidity code then i created a test folder and created a file inside it then i used beforeeach hook and then testing my solidity code
